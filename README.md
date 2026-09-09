@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MyPortfolio
 =======
 # Priyanka Dabbara - Portfolio Website
