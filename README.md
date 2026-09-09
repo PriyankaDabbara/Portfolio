@@ -1,5 +1,3 @@
-
-# MyPortfolio
 # Priyanka Dabbara - Portfolio Website
 
 A modern, creative portfolio website showcasing my skills, experience, and projects as a Full-Stack Developer.
