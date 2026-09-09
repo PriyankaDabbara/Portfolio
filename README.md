@@ -85,5 +85,3 @@ This project is open source and available under the MIT License.
 
 Priyanka Dabbara
 - Email: priyankadabbara@gmail.com
-
->>>>>>> 0f6b10c (first-commit)
